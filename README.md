@@ -1,4 +1,4 @@
-## Hi there 👋
+## Greetings 👋
 
 # 💫 About Me:
 The one before you is Lady Furina.
