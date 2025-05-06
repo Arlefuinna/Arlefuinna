@@ -1,7 +1,11 @@
 ## Greetings 👋
 
 # 💫 About Me:
-The one before you is Lady Furina.
+Driven by curiosity and a passion for innovation, I am an inventor, computer scientist, programmer, game developer, and web developer committed to solving real-world problems through technology. With a strong foundation in computer science, I have developed a wide range of software solutions, from functional websites and web applications to automated tools and creative prototypes that push the boundaries of what technology can do.
+
+My journey began with a fascination for how things work, which naturally evolved into designing and building my own solutions—both hardware and software. As a programmer, I specialize in writing clean, efficient code across multiple languages, while as a web developer, I create dynamic and responsive digital experiences that are user-focused and scalable. Whether working on solo projects or collaborating in teams, I bring a problem-solving mindset, attention to detail, and an eagerness to keep learning.
+
+I aim to continue contributing to technology that not only enhances daily life but also inspires the next generation of thinkers and creators.
 
 
 # 💻 Tech Stack:
